@@ -15,6 +15,7 @@ public class Cvs2 {
      */
     public static void main(String[] args) {
         System.out.println("primera linea");
+        System.out.println("segundo linea");
     }
     
 }
